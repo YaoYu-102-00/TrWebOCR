@@ -1,6 +1,7 @@
 # TrWebOCR-开源的离线OCR  
 
 ## 介绍
+用于中文字符的检测
 TrWebOCR，基于开源项目 [Tr](https://github.com/myhub/tr) 构建。  
 在其基础上提供了http调用的接口，便于你在其他的项目中调用。  
 并且提供了易于使用的web页面，便于调试或日常使用。   
